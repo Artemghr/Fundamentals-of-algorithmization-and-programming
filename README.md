@@ -1,1 +1,1 @@
-# Fundamentals-of-algorithmization-and-programming
+# Fundamentals of Algorithmization and Programming (homework)
